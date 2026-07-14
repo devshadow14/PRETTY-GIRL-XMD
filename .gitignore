@@ -1,0 +1,39 @@
+# 🌸 PRETTY GIRL MD - Git Ignore
+# 💕 Créé par DEV SHADOW TECH
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# WhatsApp sessions
+sessions/*/
+!sessions/.gitkeep
+
+# Log files
+pretty-girl-md.log
+panel.log
+*.log
+
+# OS files
+.DS_Store
+*.pem
+*.key
+*.crt
+
+# Temp files
+*.tmp
+*.temp
+/tmp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.backup
+*.bak
